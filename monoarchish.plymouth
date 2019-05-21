@@ -1,0 +1,8 @@
+[Plymouth Theme]
+Name=Monoarchish
+Description=Monochrome theme with Arch Linux logo and spinner
+ModuleName=script
+
+[script]
+ImageDir=/usr/share/plymouth/themes/monoarchish/images
+ScriptFile=/usr/share/plymouth/themes/monoarchish/monoarch.script
