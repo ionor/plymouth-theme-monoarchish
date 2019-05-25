@@ -1,6 +1,6 @@
 pkgname=plymouth-theme-monoarchish
 pkgver=0.1
-pkgrel=1
+pkgrel=2
 pkgdesc='Modified monochrome Arch Linux theme for Plymouth'
 arch=('any')
 url='https://farsil.github.io/monoarch/'
@@ -34,13 +34,7 @@ package() {
 }
 sha256sums=('e26fe7100dbe612b517037a55488f5ae25976b55e60a542c53623073e52a5ca1'
             'efc4134ab3a534dbd0b92ec1abc55f17cda2968c0d5c6a855fe0cb760b4b291a'
-            '3cc843b334076922b3aaa562400a660c8ece3517a0f9091aeb41da3fcdf8abec'
-            '232c23526722389afd42c278c6a31d2bdd3ca0e6207d54287c603938bbcd9e57'
-            'c4d8517ed9f58273607d753284c660bd6e7cfc8caa3baa25dc419a8c1388aac2'
-            '52f15ce4d1e7d7906e0909d033c69b8c102bc1feecde725721bf48e29e19ec6f')
-sha256sums=('e26fe7100dbe612b517037a55488f5ae25976b55e60a542c53623073e52a5ca1'
-            'efc4134ab3a534dbd0b92ec1abc55f17cda2968c0d5c6a855fe0cb760b4b291a'
-            '3cc843b334076922b3aaa562400a660c8ece3517a0f9091aeb41da3fcdf8abec'
+            '4900f461acc9b0d6592e56d695f796c6ebdba5acb9a46387b9ed8ae8bd511407'
             '232c23526722389afd42c278c6a31d2bdd3ca0e6207d54287c603938bbcd9e57'
             'c4d8517ed9f58273607d753284c660bd6e7cfc8caa3baa25dc419a8c1388aac2'
             '52f15ce4d1e7d7906e0909d033c69b8c102bc1feecde725721bf48e29e19ec6f'
